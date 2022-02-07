@@ -1,5 +1,5 @@
 # Login-React
-Custom signin ,Signup page in React js and bootstrap css!
+Custom signin ,Signup page in React JS and bootstrap CSS!
 
 ## Signup
 ![img](Signup.png)
